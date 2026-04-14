@@ -78,10 +78,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels
     ```bash
     git clone https://github.com/OumaimaFdhila/heart_disease_UCI.git
     ```
-2.  Lancez le notebook ou le script principal :
-    ```bash
-    python main.py
-    ```
+2.  Lancez le notebook 
 
 -----
 
@@ -99,7 +96,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels
 
 ## 📌 Auteurs
 
-  - **Fdhila Oumaima** – *M1-ISI*
+  - **Fdhila Oumaima** *M1-ISI*
 
 -----
 
