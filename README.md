@@ -82,18 +82,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels
 
 -----
 
-## 📂 Structure du Dépôt
-
-```text
-├── data/               # Jeu de données brut et nettoyé
-├── notebooks/          # Notebooks Jupyter (EDA, Modeling)
-├── src/                # Scripts Python (Prepro, Utils)
-├── README.md           # Documentation du projet
-└── requirements.txt    # Liste des dépendances
-```
-
------
-
 ## 📌 Auteurs
 
   - **Fdhila Oumaima** *M1-ISI*
